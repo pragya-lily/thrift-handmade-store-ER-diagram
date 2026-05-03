@@ -274,6 +274,9 @@ Manages delivery and shipping details.
   * Delivery status management
 
 ---
+##   ER diagram 
+<img width="2000" height="1250" alt="image" src="https://github.com/user-attachments/assets/e003dc11-d631-4d0d-905d-b723d0846fd2" />
+
 
 ##  Conclusion
 
