@@ -275,19 +275,6 @@ Manages delivery and shipping details.
 
 ---
 
-##  Features Supported by This Design
-
-✔ Product catalog management
-✔ Thrift & handmade distinction
-✔ Variant-based product handling
-✔ Inventory tracking (including unique items)
-✔ Multi-item orders
-✔ Customer order history
-✔ Payment tracking
-✔ Shipping & delivery tracking
-
----
-
 ##  Conclusion
 
 This ER diagram provides a scalable and realistic database structure for a small but growing Instagram-based thrift and handmade store. It ensures proper handling of unique thrift items, reusable handmade inventory, and complete order lifecycle management from purchase to delivery.
